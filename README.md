@@ -83,22 +83,6 @@ That analytical mindset now powers how I write software:
 
 ---
 
-### 🌐 Connect  
-
-<p align="center">
-  <a href="https://linkedin.com/in/whinstonsmit">
-    <img src="https://img.shields.io/badge/LinkedIn-Whinston%20Smit-blue?logo=linkedin&style=for-the-badge">
-  </a>
-  <a href="https://whinstonsmit.dev">
-    <img src="https://img.shields.io/badge/Portfolio-Website-black?logo=vercel&style=for-the-badge">
-  </a>
-  <a href="https://github.com/whinstonsmit">
-    <img src="https://img.shields.io/badge/GitHub-Follow-lightgrey?logo=github&style=for-the-badge">
-  </a>
-</p>
-
----
-
 <p align="center">
   <sub>🔭 “Precision is not just for physics — it's how I write code.”</sub><br>
   <sub>⭐ If my projects resonate with you, consider leaving a star!</sub>
