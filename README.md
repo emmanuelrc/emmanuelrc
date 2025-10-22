@@ -2,7 +2,7 @@
 
 <h1 align="center">🧠 Emmanuel Ramírez</h1>
 <p align="center">
-  <b>Medical Physicist · Software Engineer · Data Visualization Developer</b><br>
+  <b>Software Engineer · Medical Physicist · Data Visualization Developer</b><br>
   <sub>Transforming complex data into clarity — in healthcare, science, and code.</sub>
 </p>
 
