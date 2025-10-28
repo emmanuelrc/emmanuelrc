@@ -8,20 +8,20 @@
 
 ---
 
-### 📊 Overview
+### 📊 About Me
 
 I'm a **medical physicist turned full-stack developer**, building reliable, data-driven tools for hospitals and analytics platforms.  
 My work blends **scientific accuracy** with **modern web engineering**, focusing on transparency, visualization, and intelligent workflows.
 
-- 🩻 8+ years in **medical imaging, radiation protection, and quality control**  
-- 💻 Now developing **Next.js / TypeScript** applications for data dashboards and process automation  
+- 💻 Developing **Next.js / TypeScript** applications for data dashboards and process automation  
 - 📈 Passionate about **data visualization, clean architecture, and reproducible results**
+- 🩻 8+ years in **medical imaging, radiation protection, and quality control**  
 
 ---
 
 ### 🧪 Projects
 
-#### 🩻 [xTrack – Radiation Dose Monitoring Platform](https://github.com/whinstonsmit/xtrack)
+#### 🩻 **xTrack – Radiation Dose Monitoring Platform**
 > *Centralized monitoring of radiation dose data for hospital staff.*
 
 **Stack:** Next.js 15 · TypeScript · Prisma ORM · PostgreSQL · Tailwind CSS · shadcn/ui · Recharts  
@@ -31,7 +31,7 @@ My work blends **scientific accuracy** with **modern web engineering**, focusing
 
 ---
 
-#### 🌱 [Blüme – Smart Plant-Care Dashboard](https://github.com/whinstonsmit/blume)
+#### 🌱 **Blüme – Smart Plant-Care Dashboard**  
 > *Environmental data meets design.*
 
 **Stack:** React + Vite · TypeScript · PostgreSQL · Perenual API  
@@ -40,7 +40,7 @@ My work blends **scientific accuracy** with **modern web engineering**, focusing
 
 ---
 
-#### 🎧 [Spotilyze – Spotify Streaming Analytics (Legacy)](https://github.com/whinstonsmit/spotilyze)
+#### 🎧 **Spotilyze – Spotify Streaming Analytics**  
 > *Behavioral data visualization for music analytics.*
 
 **Stack:** React · Node.js · GraphQL · MongoDB · Chart.js  
