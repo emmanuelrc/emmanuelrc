@@ -78,8 +78,7 @@ As a **Physicist in Medical Imaging & Data Analysis**, I worked on:
 - 🧮 Developed **automation scripts** in **Python** and **JavaScript** for data cleaning and visualization tasks.  
 - 📡 Applied technical knowledge in **DICOM/PACS**, **ETL**, and workflow analytics to optimize clinical imaging operations.  
 
-That analytical mindset now powers how I write software —  
-**validate, visualize, and iterate — like any good experiment.**
+That analytical mindset now powers how I write software: **validate, visualize, and iterate, like any good experiment.**
 
 ---
 
