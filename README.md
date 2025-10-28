@@ -93,9 +93,9 @@ That analytical mindset now powers how I write software —
 📖 Explore my research on **[ResearchGate](https://www.researchgate.net/profile/Emmanuel-Ramirez-2?ev=hdr_xprf)**  
 
 Recent publications and collaborations include:  
-- *Implementation of Quality Control Protocols for MRI and CT Systems* workflow optimization and reproducibility in large hospital networks.  
-- *Radiation Dose Monitoring Framework for Interventional Radiology* data-driven safety management.  
-- *Automation of Image Data Processing in Medical Physics* integrating Python and SQL-based analytics pipelines.  
+- **Implementation of Quality Control Protocols for MRI and CT Systems:** workflow optimization and reproducibility in large hospital networks.  
+- **Radiation Dose Monitoring Framework for Interventional Radiology:** data-driven safety management.  
+- **Automation of Image Data Processing in Medical Physics:** integrating Python and SQL-based analytics pipelines.  
 
 ---
 
