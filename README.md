@@ -72,12 +72,13 @@ My work blends **scientific accuracy** with **modern web engineering**, focusing
 
 ### ⚗️ From Physics to Code
 
-As a **medical physicist**, I worked on:
-- 🧾 Quality control protocols for **CT/MRI/X-ray** systems  
-- 📉 Radiation dose optimization & analytics  
-- 📊 Power BI dashboards to monitor imaging workflows  
+As a **Physicist in Medical Imaging & Data Analysis**, I worked on:
+- 🧠 Designed and implemented **Power BI** and **SQL** dashboards to monitor imaging workflows across **CT, MRI, and X-ray** modalities.  
+- ⚙️ Improved operational efficiency by analyzing large imaging datasets and automating **data-processing pipelines**.  
+- 🧮 Developed **automation scripts** in **Python** and **JavaScript** for data cleaning and visualization tasks.  
+- 📡 Applied technical knowledge in **DICOM/PACS**, **ETL**, and workflow analytics to optimize clinical imaging operations.  
 
-That analytical mindset now powers how I write software:  
+That analytical mindset now powers how I write software —  
 **validate, visualize, and iterate — like any good experiment.**
 
 ---
@@ -88,6 +89,13 @@ That analytical mindset now powers how I write software:
 - ☢️ Radiation safety automation  
 - 💡 Visualization of uncertainty & outlier detection  
 - 🧩 Cross-disciplinary tools bridging physics and software  
+
+📖 Explore my research on **[ResearchGate](https://www.researchgate.net/profile/Emmanuel-Ramirez-2?ev=hdr_xprf)**  
+
+Recent publications and collaborations include:  
+- *Implementation of Quality Control Protocols for MRI and CT Systems* — workflow optimization and reproducibility in large hospital networks.  
+- *Radiation Dose Monitoring Framework for Interventional Radiology* — data-driven safety management.  
+- *Automation of Image Data Processing in Medical Physics* — integrating Python and SQL-based analytics pipelines.  
 
 ---
 
